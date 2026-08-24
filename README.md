@@ -83,7 +83,7 @@ Windows:
 Run the training script:
 
 ```bash
-python train.py
+python3 train.py
 ```
 
 
